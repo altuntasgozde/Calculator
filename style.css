@@ -3,9 +3,15 @@
     width: 100%;
 }
 .calc {
-    margin-top: 40%;
+    margin-top: 10%;
     background-color: #F0F8FF;
     padding: 50px;
+}
+
+.text {
+    margin-top: 7%;
+    color:blue
+
 }
 
 button {
